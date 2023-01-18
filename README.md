@@ -1,3 +1,3 @@
 # Test-Java-Kata
 Калькулятор-Ката
-Запустить файл Calculator.java
+Запустить файл Main.java
